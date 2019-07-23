@@ -8,6 +8,16 @@ The purpose of the Wiki is to get any insights on some tutorials. As they are a 
 ## Disclaimer:
 Any information released on this wiki was released to the public by ServerMiner.
 
+***
+
+***
+
+## DO NOT POST YOUR SERVER ISSUES HERE. PLEASE MAKE A TICKET ON THE OFFICIAL WEBSITE FOR SERVERMINER!
+https://serverminer.com/contact
+
+***
+
+***
 
 | Authors | 
 | :---: |
